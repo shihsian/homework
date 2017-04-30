@@ -24,7 +24,7 @@ namespace work1
          public static List<station> Findstation()
         {
             List<station> stations = new List<station>();
-            var xml = XElement.Load(@"C:\Users\user\Desktop\work1\airpullet.xml");
+            var xml = XElement.Load(@"C:\Users\user\Desktop\homework\work1\airpullet.xml");
             var stationsNode = xml.Descendants("Data").ToList();
 
 
@@ -92,7 +92,7 @@ namespace work1
             Console.WriteLine(string.Format("共收到{0}筆監測站的資料", stations.Count));
             stations.ForEach(x =>
             {
-                Console.WriteLine(string.Format("觀測地點：{0},所在縣市:{1}", x.SiteName, x.County));
+                Console.WriteLine(string.Format("觀測地點：{0},所在縣市:{1},PM2.5濃度:{2}", x.SiteName, x.County,x.PM2_5));
 
 
             });
