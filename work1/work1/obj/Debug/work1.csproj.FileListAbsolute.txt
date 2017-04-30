@@ -1,0 +1,10 @@
+D:\多媒體\work1\work1\bin\Debug\work1.exe.config
+C:\Users\user\Desktop\work1\work1\bin\Debug\work1.exe.config
+C:\Users\user\Desktop\work1\work1\obj\Debug\work1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\work1\work1\bin\Debug\work1.exe
+C:\Users\user\Desktop\work1\work1\bin\Debug\work1.pdb
+C:\Users\user\Desktop\work1\work1\obj\Debug\work1.exe
+C:\Users\user\Desktop\work1\work1\obj\Debug\work1.pdb
+C:\Users\user\Desktop\homework\work1\work1\bin\Debug\work1.exe.config
+C:\Users\user\Desktop\homework\work1\work1\obj\Debug\work1.exe
+C:\Users\user\Desktop\homework\work1\work1\obj\Debug\work1.pdb
